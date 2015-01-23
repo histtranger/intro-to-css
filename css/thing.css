@@ -7,4 +7,9 @@ html {
 
 h1 {
     color: #fbf3fa;
+    font-weight: normal;
+    font-size: 5rem;
+    font-style: italic;
+    text-decoration: overline;
+    font-family: Arial, sans-serif;
 }
