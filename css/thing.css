@@ -13,3 +13,7 @@ h1 {
     text-decoration: overline;
     font-family: 'Oxygen', sans-serif;
 }
+
+ol {
+    list-style: none;
+}
