@@ -16,4 +16,7 @@ h1 {
 
 ol {
     list-style-type: none;
+    /* circle, disc, lower-roman, lower-alpha, square
+    */
+    padding: 0;
 }
