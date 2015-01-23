@@ -5,13 +5,15 @@ html {
 /* forgot this is the comment thing for the css thing
 */
 
-h1 {
+h1, h2 {
     color: #fbf3fa;
     font-weight: normal;
     font-size: 5rem;
     font-style: italic;
     text-decoration: overline;
     font-family: 'Oxygen', sans-serif;
+    /* line-height is leading.*/
+    line-height: 1.5;
 }
 
 ol {
@@ -19,4 +21,9 @@ ol {
     /* circle, disc, lower-roman, lower-alpha, square
     */
     padding: 0;
+    line-height: 1;
+}
+
+.juan {
+    font-weight: bold;
 }
